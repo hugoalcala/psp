@@ -1,6 +1,5 @@
 #include <iostream>
-#include <unistd.h> // Para fork()
-#include <sys/types.h> // Para pid_t
+#include <unistd.h> // Para fork()  
 #include <cstdlib> // Para exit()
 
 int main() {
